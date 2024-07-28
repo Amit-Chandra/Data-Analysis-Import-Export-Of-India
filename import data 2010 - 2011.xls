@@ -1,0 +1,2804 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2024-07-20T09:51:50</o:Created>
+     <o:LastAuthor>Hari Hari</o:LastAuthor>
+     <o:LastSaved>2024-07-20T09:53:19</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt="string">F15435725B1F42018EBF6B884BBF21EC_12</o:ICV>
+     <o:KSOProductBuildVer dt:dt="string">1033-12.2.0.17153</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:13.5pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#000000;
+	font-size:13.5pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#FFFFFF;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font14
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font22
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font23
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font24
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_ \0022₹\0022* \#\,\#\#0\.00_ \;_ \0022₹\0022* \\-\#\,\#\#0\.00_ \;_ \0022₹\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style19
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Comma [0]";
+	mso-style-id:6;}
+.style20
+	{mso-number-format:"_ \0022₹\0022* \#\,\#\#0_ \;_ \0022₹\0022* \\-\#\,\#\#0_ \;_ \0022₹\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Currency [0]";
+	mso-style-id:7;}
+.style21
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+.style22
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+.style23
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"Note";}
+.style24
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Warning Text";}
+.style25
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Title";}
+.style26
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"CExplanatory Text";}
+.style27
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 1";}
+.style28
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 2";}
+.style29
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"Heading 3";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Heading 4";}
+.style31
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Input";}
+.style32
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"Output";}
+.style33
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Calculation";}
+.style34
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"Check Cell";}
+.style35
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"Linked Cell";}
+.style36
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"Total";}
+.style37
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Good";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Bad";}
+.style39
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Neutral";}
+.style40
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent1";}
+.style41
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent1";}
+.style42
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent1";}
+.style43
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent1";}
+.style44
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent2";}
+.style45
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent2";}
+.style46
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent2";}
+.style47
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent2";}
+.style48
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent3";}
+.style49
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent3";}
+.style50
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent3";}
+.style51
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent3";}
+.style52
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent4";}
+.style53
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent4";}
+.style54
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent4";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent4";}
+.style56
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent5";}
+.style57
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent5";}
+.style58
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent5";}
+.style59
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent5";}
+.style60
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent6";}
+.style61
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:18.0pt;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:13.5pt;
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:13.5pt;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:right;
+	white-space:normal;
+	mso-font-charset:134;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#336600;
+	color:#FFFFFF;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Arial;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl70
+	{mso-style-parent:style0;
+	vertical-align:top;
+	white-space:normal;
+	font-size:10.0pt;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl71
+	{mso-style-parent:style0;
+	mso-number-format:"\#\,\#\#0\.00";
+	text-align:right;
+	vertical-align:top;
+	white-space:normal;
+	font-size:10.0pt;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl72
+	{mso-style-parent:style0;
+	text-align:right;
+	vertical-align:top;
+	white-space:normal;
+	font-size:10.0pt;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl73
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>im 10-11</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>285</x:DefaultRowHeight>
+        <x:StandardWidth>2310</x:StandardWidth>
+        <x:Selected/>
+        <x:TopRowVisible>212</x:TopRowVisible>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>6</x:ActiveCol>
+          <x:ActiveRow>3</x:ActiveRow>
+          <x:RangeSelection>G:G</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>9157</x:WindowHeight>
+     <x:WindowWidth>20752</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="2314" border="0" cellpadding="0" cellspacing="0" style='width:867.75pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="180" style='mso-width-source:userset;mso-width-alt:2880;'/>
+   <col width="850" style='mso-width-source:userset;mso-width-alt:13600;'/>
+   <col width="406" style='mso-width-source:userset;mso-width-alt:6496;'/>
+   <col width="236" style='mso-width-source:userset;mso-width-alt:3776;'/>
+   <col width="406" style='mso-width-source:userset;mso-width-alt:6496;'/>
+   <col width="236" style='mso-width-source:userset;mso-width-alt:3776;'/>
+   <tr height="62" style='height:23.25pt;mso-height-source:userset;mso-height-alt:465;'>
+    <td class="xl65" height="62" width="2314" colspan="6" style='height:23.25pt;width:867.75pt;border-right:none;border-bottom:none;' x:str>Department of Commerce</td>
+   </tr>
+   <tr height="47.07" style='height:17.65pt;mso-height-source:userset;mso-height-alt:353;'>
+    <td class="xl66" height="47.07" colspan="6" style='height:17.65pt;border-right:none;border-bottom:none;' x:str>Export Import Data Bank</td>
+   </tr>
+   <tr height="47.07" style='height:17.65pt;mso-height-source:userset;mso-height-alt:353;'>
+    <td class="xl67" height="47.07" colspan="6" style='height:17.65pt;border-right:none;border-bottom:none;' x:str>Import :: Country-wise</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td height="38" colspan="6" style='height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="38" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl68" height="38" colspan="6" style='height:14.25pt;border-right:none;border-bottom:none;' x:str>Dated: 20/7/2024</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl68" height="38" colspan="6" style='height:14.25pt;border-right:none;border-bottom:none;' x:str>Values in Rs. Lacs</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td height="38" colspan="6" style='height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl69" height="38" style='height:14.25pt;' x:str>S.No.</td>
+    <td class="xl69" x:str>Country</td>
+    <td class="xl69" x:str>2009-2010</td>
+    <td class="xl69" x:str>%Share</td>
+    <td class="xl69" x:str>2010-2011</td>
+    <td class="xl69" x:str>%Share</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>1</td>
+    <td class="xl70" x:str>AFGHANISTAN</td>
+    <td class="xl71" x:num="59040.370000000003">59,040.37</td>
+    <td class="xl72" x:num>0.0433</td>
+    <td class="xl71" x:num="66202.399999999994">66,202.40</td>
+    <td class="xl72" x:num>0.0393</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>2</td>
+    <td class="xl70" x:str>ALBANIA</td>
+    <td class="xl72" x:num>130.18</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>52.19</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>3</td>
+    <td class="xl70" x:str>ALGERIA</td>
+    <td class="xl71" x:num="464561.87">4,64,561.87</td>
+    <td class="xl72" x:num>0.3407</td>
+    <td class="xl71" x:num="827286.04000000004">8,27,286.04</td>
+    <td class="xl72" x:num>0.4914</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>4</td>
+    <td class="xl70" x:str>AMERI SAMOA</td>
+    <td class="xl72" x:num>161.08</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>70.07</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>5</td>
+    <td class="xl70" x:str>ANDORRA</td>
+    <td class="xl72" x:num>1.95</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>3.25</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>6</td>
+    <td class="xl70" x:str>ANGOLA</td>
+    <td class="xl71" x:num="2001769.6799999999">20,01,769.68</td>
+    <td class="xl72" x:num>1.4679</td>
+    <td class="xl71" x:num="2327303.79">23,27,303.79</td>
+    <td class="xl72" x:num>1.3824</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>7</td>
+    <td class="xl70" x:str>ANGUILLA</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+    <td class="xl72" x:num>3.23</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>8</td>
+    <td class="xl70" x:str>ANTARTICA</td>
+    <td class="xl72" x:num>33.81</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>35.1</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>9</td>
+    <td class="xl70" x:str>ANTIGUA</td>
+    <td class="xl72" x:num>6.44</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl71" x:num="7276.6000000000004">7,276.60</td>
+    <td class="xl72" x:num>0.0043</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>10</td>
+    <td class="xl70" x:str>ARGENTINA</td>
+    <td class="xl71" x:num="316135.28000000003">3,16,135.28</td>
+    <td class="xl72" x:num>0.2318</td>
+    <td class="xl71" x:num="469004.96000000002">4,69,004.96</td>
+    <td class="xl72" x:num>0.2786</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>11</td>
+    <td class="xl70" x:str>ARMENIA</td>
+    <td class="xl71" x:num="1403.26">1,403.26</td>
+    <td class="xl72" x:num>0.001</td>
+    <td class="xl71" x:num="3224.8200000000002">3,224.82</td>
+    <td class="xl72" x:num>0.0019</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>12</td>
+    <td class="xl70" x:str>ARUBA</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+    <td class="xl72" x:num>864.3</td>
+    <td class="xl72" x:num>0.0005</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>13</td>
+    <td class="xl70" x:str>AUSTRALIA</td>
+    <td class="xl71" x:num="5866199.0700000003">58,66,199.07</td>
+    <td class="xl72" x:num>4.3016</td>
+    <td class="xl71" x:num="4918755.8300000001">49,18,755.83</td>
+    <td class="xl72" x:num>2.9218</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>14</td>
+    <td class="xl70" x:str>AUSTRIA</td>
+    <td class="xl71" x:num="372695.63">3,72,695.63</td>
+    <td class="xl72" x:num>0.2733</td>
+    <td class="xl71" x:num="371772.17999999999">3,71,772.18</td>
+    <td class="xl72" x:num>0.2208</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>15</td>
+    <td class="xl70" x:str>AZERBAIJAN</td>
+    <td class="xl71" x:num="133572.23999999999">1,33,572.24</td>
+    <td class="xl72" x:num>0.0979</td>
+    <td class="xl71" x:num="91110.789999999994">91,110.79</td>
+    <td class="xl72" x:num>0.0541</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>16</td>
+    <td class="xl70" x:str>BAHAMAS</td>
+    <td class="xl72" x:num>229.12</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl71" x:num="2028.9100000000001">2,028.91</td>
+    <td class="xl72" x:num>0.0012</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>17</td>
+    <td class="xl70" x:str>BAHARAIN IS</td>
+    <td class="xl71" x:num="238454.94">2,38,454.94</td>
+    <td class="xl72" x:num>0.1749</td>
+    <td class="xl71" x:num="291949.76000000001">2,91,949.76</td>
+    <td class="xl72" x:num>0.1734</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>18</td>
+    <td class="xl70" x:str>BANGLADESH PR</td>
+    <td class="xl71" x:num="120528.14">1,20,528.14</td>
+    <td class="xl72" x:num>0.0884</td>
+    <td class="xl71" x:num="203138.64000000001">2,03,138.64</td>
+    <td class="xl72" x:num>0.1207</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>19</td>
+    <td class="xl70" x:str>BARBADOS</td>
+    <td class="xl72" x:num>95.62</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>69.8</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>20</td>
+    <td class="xl70" x:str>BELARUS</td>
+    <td class="xl71" x:num="206616.32999999999">2,06,616.33</td>
+    <td class="xl72" x:num>0.1515</td>
+    <td class="xl71" x:num="93994.270000000004">93,994.27</td>
+    <td class="xl72" x:num>0.0558</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>21</td>
+    <td class="xl70" x:str>BELGIUM</td>
+    <td class="xl71" x:num="2846578.3100000001">28,46,578.31</td>
+    <td class="xl72" x:num>2.0873</td>
+    <td class="xl71" x:num="3917866.54">39,17,866.54</td>
+    <td class="xl72" x:num>2.3273</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>22</td>
+    <td class="xl70" x:str>BELIZE</td>
+    <td class="xl72" x:num>174.38</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>95.1</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>23</td>
+    <td class="xl70" x:str>BENIN</td>
+    <td class="xl71" x:num="59721.300000000003">59,721.30</td>
+    <td class="xl72" x:num>0.0438</td>
+    <td class="xl71" x:num="70043.330000000002">70,043.33</td>
+    <td class="xl72" x:num>0.0416</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>24</td>
+    <td class="xl70" x:str>BERMUDA</td>
+    <td class="xl72" x:num>93.99</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>1.77</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>25</td>
+    <td class="xl70" x:str>BHUTAN</td>
+    <td class="xl71" x:num="72298.5">72,298.50</td>
+    <td class="xl72" x:num>0.053</td>
+    <td class="xl71" x:num="91735.679999999993">91,735.68</td>
+    <td class="xl72" x:num>0.0545</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>26</td>
+    <td class="xl70" x:str>BOLIVIA</td>
+    <td class="xl71" x:num="1589.6300000000001">1,589.63</td>
+    <td class="xl72" x:num>0.0012</td>
+    <td class="xl71" x:num="3048.25">3,048.25</td>
+    <td class="xl72" x:num>0.0018</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>27</td>
+    <td class="xl70" x:str>BOSNIA-HRZGOVIN</td>
+    <td class="xl72" x:num>239.31</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl71" x:num="8604.0100000000002">8,604.01</td>
+    <td class="xl72" x:num>0.0051</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>28</td>
+    <td class="xl70" x:str>BOTSWANA</td>
+    <td class="xl71" x:num="3275.8600000000001">3,275.86</td>
+    <td class="xl72" x:num>0.0024</td>
+    <td class="xl71" x:num="12165.860000000001">12,165.86</td>
+    <td class="xl72" x:num>0.0072</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>29</td>
+    <td class="xl70" x:str>BR VIRGN IS</td>
+    <td class="xl72" x:num>77.57</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>397.61</td>
+    <td class="xl72" x:num>0.0002</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>30</td>
+    <td class="xl70" x:str>BRAZIL</td>
+    <td class="xl71" x:num="1625997.8600000001">16,25,997.86</td>
+    <td class="xl72" x:num>1.1923</td>
+    <td class="xl71" x:num="1606429.8600000001">16,06,429.86</td>
+    <td class="xl72" x:num>0.9542</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>31</td>
+    <td class="xl70" x:str>BRUNEI</td>
+    <td class="xl71" x:num="202852.73000000001">2,02,852.73</td>
+    <td class="xl72" x:num>0.1487</td>
+    <td class="xl71" x:num="106485.7">1,06,485.70</td>
+    <td class="xl72" x:num>0.0633</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>32</td>
+    <td class="xl70" x:str>BULGARIA</td>
+    <td class="xl71" x:num="15470.76">15,470.76</td>
+    <td class="xl72" x:num>0.0113</td>
+    <td class="xl71" x:num="26266.369999999999">26,266.37</td>
+    <td class="xl72" x:num>0.0156</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>33</td>
+    <td class="xl70" x:str>BURKINA FASO</td>
+    <td class="xl71" x:num="2934.7800000000002">2,934.78</td>
+    <td class="xl72" x:num>0.0022</td>
+    <td class="xl71" x:num="1895.1300000000001">1,895.13</td>
+    <td class="xl72" x:num>0.0011</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>34</td>
+    <td class="xl70" x:str>BURUNDI</td>
+    <td class="xl72" x:num>353.81</td>
+    <td class="xl72" x:num>0.0003</td>
+    <td class="xl72" x:num>110.15</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>35</td>
+    <td class="xl70" x:str>C AFRI REP</td>
+    <td class="xl72" x:num>313.86</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl72" x:num>700.9</td>
+    <td class="xl72" x:num>0.0004</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>36</td>
+    <td class="xl70" x:str>CAMBODIA</td>
+    <td class="xl71" x:num="2405.9000000000001">2,405.90</td>
+    <td class="xl72" x:num>0.0018</td>
+    <td class="xl71" x:num="3637.6900000000001">3,637.69</td>
+    <td class="xl72" x:num>0.0022</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>37</td>
+    <td class="xl70" x:str>CAMEROON</td>
+    <td class="xl71" x:num="63985.510000000002">63,985.51</td>
+    <td class="xl72" x:num>0.0469</td>
+    <td class="xl71" x:num="62759.239999999998">62,759.24</td>
+    <td class="xl72" x:num>0.0373</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>38</td>
+    <td class="xl70" x:str>CANADA</td>
+    <td class="xl71" x:num="995411.33999999997">9,95,411.34</td>
+    <td class="xl72" x:num>0.7299</td>
+    <td class="xl71" x:num="924330.56000000006">9,24,330.56</td>
+    <td class="xl72" x:num>0.5491</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>39</td>
+    <td class="xl70" x:str>CAPE VERDE IS</td>
+    <td class="xl72" x:num>54.63</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>950.91</td>
+    <td class="xl72" x:num>0.0006</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>40</td>
+    <td class="xl70" x:str>CAYMAN IS</td>
+    <td class="xl72" x:num>692.36</td>
+    <td class="xl72" x:num>0.0005</td>
+    <td class="xl72" x:num>11.75</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>41</td>
+    <td class="xl70" x:str>CHAD</td>
+    <td class="xl71" x:num="3323.9099999999999">3,323.91</td>
+    <td class="xl72" x:num>0.0024</td>
+    <td class="xl72" x:num>258.22</td>
+    <td class="xl72" x:num>0.0002</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>42</td>
+    <td class="xl70" x:str>CHANNEL IS</td>
+    <td class="xl72" x:num>0.08</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>43</td>
+    <td class="xl70" x:str>CHILE</td>
+    <td class="xl71" x:num="524722.56999999995">5,24,722.57</td>
+    <td class="xl72" x:num>0.3848</td>
+    <td class="xl71" x:num="705638.27000000002">7,05,638.27</td>
+    <td class="xl72" x:num>0.4192</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>44</td>
+    <td class="xl70" x:str>CHINA P RP</td>
+    <td class="xl71" x:num="14604861.199999999">1,46,04,861.20</td>
+    <td class="xl72" x:num>10.7095</td>
+    <td class="xl71" x:num="19807907.579999998">1,98,07,907.58</td>
+    <td class="xl72" x:num>11.7661</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>45</td>
+    <td class="xl70" x:str>CHRISTMAS IS.</td>
+    <td class="xl71" x:num="3155.04">3,155.04</td>
+    <td class="xl72" x:num>0.0023</td>
+    <td class="xl72" x:num>26.41</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>46</td>
+    <td class="xl70" x:str>COCOS IS</td>
+    <td class="xl72" x:num>9.92</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl71" x:num="22188.549999999999">22,188.55</td>
+    <td class="xl72" x:num>0.0132</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>47</td>
+    <td class="xl70" x:str>COLOMBIA</td>
+    <td class="xl71" x:num="200909.95999999999">2,00,909.96</td>
+    <td class="xl72" x:num>0.1473</td>
+    <td class="xl71" x:num="386557.79999999999">3,86,557.80</td>
+    <td class="xl72" x:num>0.2296</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>48</td>
+    <td class="xl70" x:str>COMOROS</td>
+    <td class="xl72" x:num>320.18</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl71" x:num="3823.6599999999999">3,823.66</td>
+    <td class="xl72" x:num>0.0023</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>49</td>
+    <td class="xl70" x:str>CONGO D. REP.</td>
+    <td class="xl71" x:num="67714.270000000004">67,714.27</td>
+    <td class="xl72" x:num>0.0497</td>
+    <td class="xl71" x:num="4474.8100000000004">4,474.81</td>
+    <td class="xl72" x:num>0.0027</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>50</td>
+    <td class="xl70" x:str>CONGO P REP</td>
+    <td class="xl71" x:num="256994.16">2,56,994.16</td>
+    <td class="xl72" x:num>0.1884</td>
+    <td class="xl71" x:num="248015.56">2,48,015.56</td>
+    <td class="xl72" x:num>0.1473</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>51</td>
+    <td class="xl70" x:str>COOK IS</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+    <td class="xl72" x:num>36.77</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>52</td>
+    <td class="xl70" x:str>COSTA RICA</td>
+    <td class="xl71" x:num="44336.25">44,336.25</td>
+    <td class="xl72" x:num>0.0325</td>
+    <td class="xl71" x:num="43596.260000000002">43,596.26</td>
+    <td class="xl72" x:num>0.0259</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>53</td>
+    <td class="xl70" x:str>COTE D' IVOIRE</td>
+    <td class="xl71" x:num="142477.23999999999">1,42,477.24</td>
+    <td class="xl72" x:num>0.1045</td>
+    <td class="xl71" x:num="115212.62">1,15,212.62</td>
+    <td class="xl72" x:num>0.0684</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>54</td>
+    <td class="xl70" x:str>CROATIA</td>
+    <td class="xl71" x:num="12579.35">12,579.35</td>
+    <td class="xl72" x:num>0.0092</td>
+    <td class="xl71" x:num="13001.559999999999">13,001.56</td>
+    <td class="xl72" x:num>0.0077</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>55</td>
+    <td class="xl70" x:str>CUBA</td>
+    <td class="xl72" x:num>501.87</td>
+    <td class="xl72" x:num>0.0004</td>
+    <td class="xl72" x:num>502.85</td>
+    <td class="xl72" x:num>0.0003</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>56</td>
+    <td class="xl70" x:str>CYPRUS</td>
+    <td class="xl71" x:num="6672.3100000000004">6,672.31</td>
+    <td class="xl72" x:num>0.0049</td>
+    <td class="xl71" x:num="9303.5799999999999">9,303.58</td>
+    <td class="xl72" x:num>0.0055</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>57</td>
+    <td class="xl70" x:str>CZECH REPUBLIC</td>
+    <td class="xl71" x:num="265889.52000000002">2,65,889.52</td>
+    <td class="xl72" x:num>0.195</td>
+    <td class="xl71" x:num="307923.79999999999">3,07,923.80</td>
+    <td class="xl72" x:num>0.1829</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>58</td>
+    <td class="xl70" x:str>DENMARK</td>
+    <td class="xl71" x:num="282876.67999999999">2,82,876.68</td>
+    <td class="xl72" x:num>0.2074</td>
+    <td class="xl71" x:num="215368.79000000001">2,15,368.79</td>
+    <td class="xl72" x:num>0.1279</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>59</td>
+    <td class="xl70" x:str>DJIBOUTI</td>
+    <td class="xl72" x:num>564.31</td>
+    <td class="xl72" x:num>0.0004</td>
+    <td class="xl71" x:num="1093.9200000000001">1,093.92</td>
+    <td class="xl72" x:num>0.0006</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>60</td>
+    <td class="xl70" x:str>DOMINIC REP</td>
+    <td class="xl71" x:num="4476.2200000000003">4,476.22</td>
+    <td class="xl72" x:num>0.0033</td>
+    <td class="xl71" x:num="7217.2399999999998">7,217.24</td>
+    <td class="xl72" x:num>0.0043</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>61</td>
+    <td class="xl70" x:str>DOMINICA</td>
+    <td class="xl72" x:num>231.5</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl72" x:num>153.85</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>62</td>
+    <td class="xl70" x:str>ECUADOR</td>
+    <td class="xl71" x:num="32176.25">32,176.25</td>
+    <td class="xl72" x:num>0.0236</td>
+    <td class="xl71" x:num="75495.">75,495.00</td>
+    <td class="xl72" x:num>0.0448</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>63</td>
+    <td class="xl70" x:str>EGYPT A RP</td>
+    <td class="xl71" x:num="803588.18999999994">8,03,588.19</td>
+    <td class="xl72" x:num>0.5893</td>
+    <td class="xl71" x:num="615785.56000000006">6,15,785.56</td>
+    <td class="xl72" x:num>0.3658</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>64</td>
+    <td class="xl70" x:str>EL SALVADOR</td>
+    <td class="xl71" x:num="2545.5999999999999">2,545.60</td>
+    <td class="xl72" x:num>0.0019</td>
+    <td class="xl71" x:num="2458.04">2,458.04</td>
+    <td class="xl72" x:num>0.0015</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>65</td>
+    <td class="xl70" x:str>EQUTL GUINEA</td>
+    <td class="xl71" x:num="125757.52">1,25,757.52</td>
+    <td class="xl72" x:num>0.0922</td>
+    <td class="xl72" x:num>55.83</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>66</td>
+    <td class="xl70" x:str>ERITREA</td>
+    <td class="xl72" x:num>77.7</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>344.47</td>
+    <td class="xl72" x:num>0.0002</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>67</td>
+    <td class="xl70" x:str>ESTONIA</td>
+    <td class="xl71" x:num="15805.440000000001">15,805.44</td>
+    <td class="xl72" x:num>0.0116</td>
+    <td class="xl71" x:num="20313.869999999999">20,313.87</td>
+    <td class="xl72" x:num>0.0121</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>68</td>
+    <td class="xl70" x:str>ETHIOPIA</td>
+    <td class="xl71" x:num="8814.3500000000004">8,814.35</td>
+    <td class="xl72" x:num>0.0065</td>
+    <td class="xl71" x:num="14939.940000000001">14,939.94</td>
+    <td class="xl72" x:num>0.0089</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>69</td>
+    <td class="xl70" x:str>FALKLAND IS</td>
+    <td class="xl72" x:num>365.94</td>
+    <td class="xl72" x:num>0.0003</td>
+    <td class="xl72" x:num>619.61</td>
+    <td class="xl72" x:num>0.0004</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>70</td>
+    <td class="xl70" x:str>FAROE IS.</td>
+    <td class="xl72" x:num>29.25</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl71" x:num="3323.77">3,323.77</td>
+    <td class="xl72" x:num>0.002</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>71</td>
+    <td class="xl70" x:str>FIJI IS</td>
+    <td class="xl72" x:num>638.2</td>
+    <td class="xl72" x:num>0.0005</td>
+    <td class="xl71" x:num="1355.23">1,355.23</td>
+    <td class="xl72" x:num>0.0008</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>72</td>
+    <td class="xl70" x:str>FINLAND</td>
+    <td class="xl71" x:num="478772.53999999998">4,78,772.54</td>
+    <td class="xl72" x:num>0.3511</td>
+    <td class="xl71" x:num="752769.42000000004">7,52,769.42</td>
+    <td class="xl72" x:num>0.4472</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>73</td>
+    <td class="xl70" x:str>FR GUIANA</td>
+    <td class="xl72" x:num>288.34</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl72" x:num>96.7</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>74</td>
+    <td class="xl70" x:str>FR POLYNESIA</td>
+    <td class="xl72" x:num>0.01</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>4.96</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>75</td>
+    <td class="xl70" x:str>FR S ANT TR</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+    <td class="xl72" x:num>4.15</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>76</td>
+    <td class="xl70" x:str>FRANCE</td>
+    <td class="xl71" x:num="1982887.29">19,82,887.29</td>
+    <td class="xl72" x:num>1.454</td>
+    <td class="xl71" x:num="1686657.1299999999">16,86,657.13</td>
+    <td class="xl72" x:num>1.0019</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>77</td>
+    <td class="xl70" x:str>GABON</td>
+    <td class="xl71" x:num="86373.139999999999">86,373.14</td>
+    <td class="xl72" x:num>0.0633</td>
+    <td class="xl71" x:num="141203.42000000001">1,41,203.42</td>
+    <td class="xl72" x:num>0.0839</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>78</td>
+    <td class="xl70" x:str>GAMBIA</td>
+    <td class="xl71" x:num="13959.190000000001">13,959.19</td>
+    <td class="xl72" x:num>0.0102</td>
+    <td class="xl71" x:num="6822.5600000000004">6,822.56</td>
+    <td class="xl72" x:num>0.0041</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>79</td>
+    <td class="xl70" x:str>GEORGIA</td>
+    <td class="xl71" x:num="4858.4799999999996">4,858.48</td>
+    <td class="xl72" x:num>0.0036</td>
+    <td class="xl71" x:num="17232.220000000001">17,232.22</td>
+    <td class="xl72" x:num>0.0102</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>80</td>
+    <td class="xl70" x:str>GERMANY</td>
+    <td class="xl71" x:num="4888575.6299999999">48,88,575.63</td>
+    <td class="xl72" x:num>3.5847</td>
+    <td class="xl71" x:num="5413601.6399999997">54,13,601.64</td>
+    <td class="xl72" x:num>3.2157</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>81</td>
+    <td class="xl70" x:str>GHANA</td>
+    <td class="xl71" x:num="70019.940000000002">70,019.94</td>
+    <td class="xl72" x:num>0.0513</td>
+    <td class="xl71" x:num="72943.639999999999">72,943.64</td>
+    <td class="xl72" x:num>0.0433</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>82</td>
+    <td class="xl70" x:str>GIBRALTAR</td>
+    <td class="xl72" x:num>2.02</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl71" x:num="5388.5500000000002">5,388.55</td>
+    <td class="xl72" x:num>0.0032</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>83</td>
+    <td class="xl70" x:str>GREECE</td>
+    <td class="xl71" x:num="73953.899999999994">73,953.90</td>
+    <td class="xl72" x:num>0.0542</td>
+    <td class="xl71" x:num="42440.190000000002">42,440.19</td>
+    <td class="xl72" x:num>0.0252</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>84</td>
+    <td class="xl70" x:str>GREENLAND</td>
+    <td class="xl72" x:num>76.46</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>17.4</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>85</td>
+    <td class="xl70" x:str>GRENADA</td>
+    <td class="xl72" x:num>34.71</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>5.88</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>86</td>
+    <td class="xl70" x:str>GUADELOUPE</td>
+    <td class="xl72" x:num>11.76</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>22.13</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>87</td>
+    <td class="xl70" x:str>GUAM</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+    <td class="xl72" x:num>22.61</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>88</td>
+    <td class="xl70" x:str>GUATEMALA</td>
+    <td class="xl71" x:num="2713.1999999999998">2,713.20</td>
+    <td class="xl72" x:num>0.002</td>
+    <td class="xl71" x:num="17994.700000000001">17,994.70</td>
+    <td class="xl72" x:num>0.0107</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>89</td>
+    <td class="xl70" x:str>GUINEA</td>
+    <td class="xl71" x:num="149474.17000000001">1,49,474.17</td>
+    <td class="xl72" x:num>0.1096</td>
+    <td class="xl71" x:num="47818.839999999997">47,818.84</td>
+    <td class="xl72" x:num>0.0284</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>90</td>
+    <td class="xl70" x:str>GUINEA BISSAU</td>
+    <td class="xl71" x:num="87269.350000000006">87,269.35</td>
+    <td class="xl72" x:num>0.064</td>
+    <td class="xl71" x:num="27571.580000000002">27,571.58</td>
+    <td class="xl72" x:num>0.0164</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>91</td>
+    <td class="xl70" x:str>GUYANA</td>
+    <td class="xl71" x:num="3893.0599999999999">3,893.06</td>
+    <td class="xl72" x:num>0.0029</td>
+    <td class="xl71" x:num="4200.4300000000003">4,200.43</td>
+    <td class="xl72" x:num>0.0025</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>92</td>
+    <td class="xl70" x:str>HAITI</td>
+    <td class="xl72" x:num>657.5</td>
+    <td class="xl72" x:num>0.0005</td>
+    <td class="xl72" x:num>608.16</td>
+    <td class="xl72" x:num>0.0004</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>93</td>
+    <td class="xl70" x:str>HEARD MACDONALD</td>
+    <td class="xl72" x:num>0.86</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>94</td>
+    <td class="xl70" x:str>HONDURAS</td>
+    <td class="xl71" x:num="11634.9">11,634.90</td>
+    <td class="xl72" x:num>0.0085</td>
+    <td class="xl72" x:num>654.21</td>
+    <td class="xl72" x:num>0.0004</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>95</td>
+    <td class="xl70" x:str>HONG KONG</td>
+    <td class="xl71" x:num="2231668.9500000002">22,31,668.95</td>
+    <td class="xl72" x:num>1.6364</td>
+    <td class="xl71" x:num="4282511.8099999996">42,82,511.81</td>
+    <td class="xl72" x:num>2.5439</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>96</td>
+    <td class="xl70" x:str>HUNGARY</td>
+    <td class="xl71" x:num="91978.460000000006">91,978.46</td>
+    <td class="xl72" x:num>0.0674</td>
+    <td class="xl71" x:num="156632.32000000001">1,56,632.32</td>
+    <td class="xl72" x:num>0.093</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>97</td>
+    <td class="xl70" x:str>ICELAND</td>
+    <td class="xl71" x:num="4805.7200000000003">4,805.72</td>
+    <td class="xl72" x:num>0.0035</td>
+    <td class="xl71" x:num="2105.0999999999999">2,105.10</td>
+    <td class="xl72" x:num>0.0013</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>98</td>
+    <td class="xl70" x:str>INDONESIA</td>
+    <td class="xl71" x:num="4100880.75">41,00,880.75</td>
+    <td class="xl72" x:num>3.0071</td>
+    <td class="xl71" x:num="4513629.2999999998">45,13,629.30</td>
+    <td class="xl72" x:num>2.6812</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>99</td>
+    <td class="xl70" x:str>IRAN</td>
+    <td class="xl71" x:num="5463556.7400000002">54,63,556.74</td>
+    <td class="xl72" x:num>4.0063</td>
+    <td class="xl71" x:num="4972462.8099999996">49,72,462.81</td>
+    <td class="xl72" x:num>2.9537</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>100</td>
+    <td class="xl70" x:str>IRAQ</td>
+    <td class="xl71" x:num="3327268.4199999999">33,27,268.42</td>
+    <td class="xl72" x:num>2.4398</td>
+    <td class="xl71" x:num="4097724.6600000001">40,97,724.66</td>
+    <td class="xl72" x:num>2.4341</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>101</td>
+    <td class="xl70" x:str>IRELAND</td>
+    <td class="xl71" x:num="125774.03999999999">1,25,774.04</td>
+    <td class="xl72" x:num>0.0922</td>
+    <td class="xl71" x:num="118093.36">1,18,093.36</td>
+    <td class="xl72" x:num>0.0701</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>102</td>
+    <td class="xl70" x:str>ISRAEL</td>
+    <td class="xl71" x:num="892765.56999999995">8,92,765.57</td>
+    <td class="xl72" x:num>0.6546</td>
+    <td class="xl71" x:num="1026344.8100000001">10,26,344.81</td>
+    <td class="xl72" x:num>0.6097</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>103</td>
+    <td class="xl70" x:str>ITALY</td>
+    <td class="xl71" x:num="1827411.51">18,27,411.51</td>
+    <td class="xl72" x:num>1.34</td>
+    <td class="xl71" x:num="1939469.5900000001">19,39,469.59</td>
+    <td class="xl72" x:num>1.1521</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>104</td>
+    <td class="xl70" x:str>JAMAICA</td>
+    <td class="xl72" x:num>314.82</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl72" x:num>351.19</td>
+    <td class="xl72" x:num>0.0002</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>105</td>
+    <td class="xl70" x:str>JAPAN</td>
+    <td class="xl71" x:num="3189384.21">31,89,384.21</td>
+    <td class="xl72" x:num>2.3387</td>
+    <td class="xl71" x:num="3930930.77">39,30,930.77</td>
+    <td class="xl72" x:num>2.335</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>106</td>
+    <td class="xl70" x:str>JORDAN</td>
+    <td class="xl71" x:num="392371.45000000001">3,92,371.45</td>
+    <td class="xl72" x:num>0.2877</td>
+    <td class="xl71" x:num="374402.60999999999">3,74,402.61</td>
+    <td class="xl72" x:num>0.2224</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>107</td>
+    <td class="xl70" x:str>KAZAKHSTAN</td>
+    <td class="xl71" x:num="73596.960000000006">73,596.96</td>
+    <td class="xl72" x:num>0.054</td>
+    <td class="xl71" x:num="63029.209999999999">63,029.21</td>
+    <td class="xl72" x:num>0.0374</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>108</td>
+    <td class="xl70" x:str>KENYA</td>
+    <td class="xl71" x:num="37621.610000000001">37,621.61</td>
+    <td class="xl72" x:num>0.0276</td>
+    <td class="xl71" x:num="56611.419999999998">56,611.42</td>
+    <td class="xl72" x:num>0.0336</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>109</td>
+    <td class="xl70" x:str>KIRIBATI REP</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+    <td class="xl72" x:num>202.5</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>110</td>
+    <td class="xl70" x:str>KOREA DP RP</td>
+    <td class="xl71" x:num="4144.4499999999998">4,144.45</td>
+    <td class="xl72" x:num>0.003</td>
+    <td class="xl71" x:num="65893.070000000007">65,893.07</td>
+    <td class="xl72" x:num>0.0391</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>111</td>
+    <td class="xl70" x:str>KOREA RP</td>
+    <td class="xl71" x:num="4055061.4900000002">40,55,061.49</td>
+    <td class="xl72" x:num>2.9735</td>
+    <td class="xl71" x:num="4771247.7000000002">47,71,247.70</td>
+    <td class="xl72" x:num>2.8342</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>112</td>
+    <td class="xl70" x:str>KUWAIT</td>
+    <td class="xl71" x:num="3898799.1899999999">38,98,799.19</td>
+    <td class="xl72" x:num>2.8589</td>
+    <td class="xl71" x:num="4697602.9400000004">46,97,602.94</td>
+    <td class="xl72" x:num>2.7904</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>113</td>
+    <td class="xl70" x:str>KYRGHYZSTAN</td>
+    <td class="xl72" x:num>307.88</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl72" x:num>542.35</td>
+    <td class="xl72" x:num>0.0003</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>114</td>
+    <td class="xl70" x:str>LAO PD RP</td>
+    <td class="xl71" x:num="9218.2000000000007">9,218.20</td>
+    <td class="xl72" x:num>0.0068</td>
+    <td class="xl72" x:num>100.53</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>115</td>
+    <td class="xl70" x:str>LATVIA</td>
+    <td class="xl71" x:num="73010.770000000004">73,010.77</td>
+    <td class="xl72" x:num>0.0535</td>
+    <td class="xl71" x:num="89981.770000000004">89,981.77</td>
+    <td class="xl72" x:num>0.0535</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>116</td>
+    <td class="xl70" x:str>LEBANON</td>
+    <td class="xl71" x:num="3205.5500000000002">3,205.55</td>
+    <td class="xl72" x:num>0.0024</td>
+    <td class="xl71" x:num="8377.6399999999994">8,377.64</td>
+    <td class="xl72" x:num>0.005</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>117</td>
+    <td class="xl70" x:str>LESOTHO</td>
+    <td class="xl72" x:num>276.91</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl72" x:num>509.7</td>
+    <td class="xl72" x:num>0.0003</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>118</td>
+    <td class="xl70" x:str>LIBERIA</td>
+    <td class="xl71" x:num="9261.5900000000001">9,261.59</td>
+    <td class="xl72" x:num>0.0068</td>
+    <td class="xl71" x:num="8051.6599999999999">8,051.66</td>
+    <td class="xl72" x:num>0.0048</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>119</td>
+    <td class="xl70" x:str>LIBYA</td>
+    <td class="xl71" x:num="294147.65000000002">2,94,147.65</td>
+    <td class="xl72" x:num>0.2157</td>
+    <td class="xl71" x:num="440249.32000000001">4,40,249.32</td>
+    <td class="xl72" x:num>0.2615</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>120</td>
+    <td class="xl70" x:str>LIECHTENSTEIN</td>
+    <td class="xl72" x:num>20.33</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>100.72</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>121</td>
+    <td class="xl70" x:str>LITHUANIA</td>
+    <td class="xl71" x:num="34953.870000000003">34,953.87</td>
+    <td class="xl72" x:num>0.0256</td>
+    <td class="xl71" x:num="58029.389999999999">58,029.39</td>
+    <td class="xl72" x:num>0.0345</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>122</td>
+    <td class="xl70" x:str>LUXEMBOURG</td>
+    <td class="xl71" x:num="16036.65">16,036.65</td>
+    <td class="xl72" x:num>0.0118</td>
+    <td class="xl71" x:num="16720.169999999998">16,720.17</td>
+    <td class="xl72" x:num>0.0099</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>123</td>
+    <td class="xl70" x:str>MACAO</td>
+    <td class="xl72" x:num>173.09</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>88.79</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>124</td>
+    <td class="xl70" x:str>MACEDONIA</td>
+    <td class="xl71" x:num="12621.66">12,621.66</td>
+    <td class="xl72" x:num>0.0093</td>
+    <td class="xl72" x:num>462.01</td>
+    <td class="xl72" x:num>0.0003</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>125</td>
+    <td class="xl70" x:str>MADAGASCAR</td>
+    <td class="xl71" x:num="9073.2800000000007">9,073.28</td>
+    <td class="xl72" x:num>0.0067</td>
+    <td class="xl71" x:num="14581.">14,581.00</td>
+    <td class="xl72" x:num>0.0087</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>126</td>
+    <td class="xl70" x:str>MALAWI</td>
+    <td class="xl71" x:num="48534.">48,534.00</td>
+    <td class="xl72" x:num>0.0356</td>
+    <td class="xl71" x:num="8972.5699999999997">8,972.57</td>
+    <td class="xl72" x:num>0.0053</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>127</td>
+    <td class="xl70" x:str>MALAYSIA</td>
+    <td class="xl71" x:num="2449403.25">24,49,403.25</td>
+    <td class="xl72" x:num>1.7961</td>
+    <td class="xl71" x:num="2974590.4399999999">29,74,590.44</td>
+    <td class="xl72" x:num>1.7669</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>128</td>
+    <td class="xl70" x:str>MALDIVES</td>
+    <td class="xl71" x:num="1707.5699999999999">1,707.57</td>
+    <td class="xl72" x:num>0.0013</td>
+    <td class="xl71" x:num="14543.27">14,543.27</td>
+    <td class="xl72" x:num>0.0086</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>129</td>
+    <td class="xl70" x:str>MALI</td>
+    <td class="xl71" x:num="1834.55">1,834.55</td>
+    <td class="xl72" x:num>0.0013</td>
+    <td class="xl71" x:num="1537.99">1,537.99</td>
+    <td class="xl72" x:num>0.0009</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>130</td>
+    <td class="xl70" x:str>MALTA</td>
+    <td class="xl71" x:num="5695.9700000000003">5,695.97</td>
+    <td class="xl72" x:num>0.0042</td>
+    <td class="xl71" x:num="16398.080000000002">16,398.08</td>
+    <td class="xl72" x:num>0.0097</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>131</td>
+    <td class="xl70" x:str>MARSHALL ISLAND</td>
+    <td class="xl72" x:num>3.49</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>618.13</td>
+    <td class="xl72" x:num>0.0004</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>132</td>
+    <td class="xl70" x:str>MARTINIQUE</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+    <td class="xl72" x:num>6.44</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>133</td>
+    <td class="xl70" x:str>MAURITANIA</td>
+    <td class="xl72" x:num>759.34</td>
+    <td class="xl72" x:num>0.0006</td>
+    <td class="xl72" x:num>893.77</td>
+    <td class="xl72" x:num>0.0005</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>134</td>
+    <td class="xl70" x:str>MAURITIUS</td>
+    <td class="xl71" x:num="5155.1000000000004">5,155.10</td>
+    <td class="xl72" x:num>0.0038</td>
+    <td class="xl71" x:num="7512.6700000000001">7,512.67</td>
+    <td class="xl72" x:num>0.0045</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>135</td>
+    <td class="xl70" x:str>MEXICO</td>
+    <td class="xl71" x:num="490842.94">4,90,842.94</td>
+    <td class="xl72" x:num>0.3599</td>
+    <td class="xl71" x:num="526882.56999999995">5,26,882.57</td>
+    <td class="xl72" x:num>0.313</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>136</td>
+    <td class="xl70" x:str>MOLDOVA</td>
+    <td class="xl72" x:num>506.48</td>
+    <td class="xl72" x:num>0.0004</td>
+    <td class="xl72" x:num>55.57</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>137</td>
+    <td class="xl70" x:str>MONACO</td>
+    <td class="xl72" x:num>469.75</td>
+    <td class="xl72" x:num>0.0003</td>
+    <td class="xl72" x:num>640.17</td>
+    <td class="xl72" x:num>0.0004</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>138</td>
+    <td class="xl70" x:str>MONGOLIA</td>
+    <td class="xl72" x:num>601.3</td>
+    <td class="xl72" x:num>0.0004</td>
+    <td class="xl72" x:num>900.09</td>
+    <td class="xl72" x:num>0.0005</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>139</td>
+    <td class="xl70" x:str>MONTSERRAT</td>
+    <td class="xl72" x:num>0.85</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>1.22</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>140</td>
+    <td class="xl70" x:str>MOROCCO</td>
+    <td class="xl71" x:num="408294.01000000001">4,08,294.01</td>
+    <td class="xl72" x:num>0.2994</td>
+    <td class="xl71" x:num="384221.34999999998">3,84,221.35</td>
+    <td class="xl72" x:num>0.2282</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>141</td>
+    <td class="xl70" x:str>MOZAMBIQUE</td>
+    <td class="xl71" x:num="32045.389999999999">32,045.39</td>
+    <td class="xl72" x:num>0.0235</td>
+    <td class="xl71" x:num="46756.029999999999">46,756.03</td>
+    <td class="xl72" x:num>0.0278</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>142</td>
+    <td class="xl70" x:str>MYANMAR</td>
+    <td class="xl71" x:num="610794.45999999996">6,10,794.46</td>
+    <td class="xl72" x:num>0.4479</td>
+    <td class="xl71" x:num="465115.40000000002">4,65,115.40</td>
+    <td class="xl72" x:num>0.2763</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>143</td>
+    <td class="xl70" x:str>N. MARIANA IS.</td>
+    <td class="xl72" x:num>82.61</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>29.44</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>144</td>
+    <td class="xl70" x:str>NAMIBIA</td>
+    <td class="xl71" x:num="20206.009999999998">20,206.01</td>
+    <td class="xl72" x:num>0.0148</td>
+    <td class="xl71" x:num="17011.439999999999">17,011.44</td>
+    <td class="xl72" x:num>0.0101</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>145</td>
+    <td class="xl70" x:str>NAURU RP</td>
+    <td class="xl71" x:num="7419.6400000000003">7,419.64</td>
+    <td class="xl72" x:num>0.0054</td>
+    <td class="xl71" x:num="1892.45">1,892.45</td>
+    <td class="xl72" x:num>0.0011</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>146</td>
+    <td class="xl70" x:str>NEPAL</td>
+    <td class="xl71" x:num="214646.32000000001">2,14,646.32</td>
+    <td class="xl72" x:num>0.1574</td>
+    <td class="xl71" x:num="233895.01000000001">2,33,895.01</td>
+    <td class="xl72" x:num>0.1389</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>147</td>
+    <td class="xl70" x:str>NETHERLAND</td>
+    <td class="xl71" x:num="1004854.6">10,04,854.60</td>
+    <td class="xl72" x:num>0.7368</td>
+    <td class="xl71" x:num="842167.94999999995">8,42,167.95</td>
+    <td class="xl72" x:num>0.5003</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>148</td>
+    <td class="xl70" x:str>NETHERLANDANTIL</td>
+    <td class="xl72" x:num>460.64</td>
+    <td class="xl72" x:num>0.0003</td>
+    <td class="xl71" x:num="1572.6400000000001">1,572.64</td>
+    <td class="xl72" x:num>0.0009</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>149</td>
+    <td class="xl70" x:str>NEW CALEDONIA</td>
+    <td class="xl71" x:num="1458.3199999999999">1,458.32</td>
+    <td class="xl72" x:num>0.0011</td>
+    <td class="xl71" x:num="3079.6700000000001">3,079.67</td>
+    <td class="xl72" x:num>0.0018</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>150</td>
+    <td class="xl70" x:str>NEW ZEALAND</td>
+    <td class="xl71" x:num="236380.72">2,36,380.72</td>
+    <td class="xl72" x:num>0.1733</td>
+    <td class="xl71" x:num="285380.15000000002">2,85,380.15</td>
+    <td class="xl72" x:num>0.1695</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>151</td>
+    <td class="xl70" x:str>NICARAGUA</td>
+    <td class="xl72" x:num>164.5</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>413.51</td>
+    <td class="xl72" x:num>0.0002</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>152</td>
+    <td class="xl70" x:str>NIGER</td>
+    <td class="xl72" x:num>120.06</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl71" x:num="4900.3400000000001">4,900.34</td>
+    <td class="xl72" x:num>0.0029</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>153</td>
+    <td class="xl70" x:str>NIGERIA</td>
+    <td class="xl71" x:num="3437710.9500000002">34,37,710.95</td>
+    <td class="xl72" x:num>2.5208</td>
+    <td class="xl71" x:num="4900514.8700000001">49,00,514.87</td>
+    <td class="xl72" x:num>2.911</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>154</td>
+    <td class="xl70" x:str>NIUE IS</td>
+    <td class="xl72" x:num>28.48</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>0.31</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>155</td>
+    <td class="xl70" x:str>NORFOLK IS</td>
+    <td class="xl72" x:num>380.54</td>
+    <td class="xl72" x:num>0.0003</td>
+    <td class="xl72" x:num>73</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>156</td>
+    <td class="xl70" x:str>NORWAY</td>
+    <td class="xl71" x:num="431102.58000000002">4,31,102.58</td>
+    <td class="xl72" x:num>0.3161</td>
+    <td class="xl71" x:num="433873.84999999998">4,33,873.85</td>
+    <td class="xl72" x:num>0.2577</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>157</td>
+    <td class="xl70" x:str>OMAN</td>
+    <td class="xl71" x:num="1644314.0800000001">16,44,314.08</td>
+    <td class="xl72" x:num>1.2057</td>
+    <td class="xl71" x:num="1818433.3999999999">18,18,433.40</td>
+    <td class="xl72" x:num>1.0802</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>158</td>
+    <td class="xl70" x:str>PAKISTAN IR</td>
+    <td class="xl71" x:num="130461.77">1,30,461.77</td>
+    <td class="xl72" x:num>0.0957</td>
+    <td class="xl71" x:num="151395.48999999999">1,51,395.49</td>
+    <td class="xl72" x:num>0.0899</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>159</td>
+    <td class="xl70" x:str>PALAU</td>
+    <td class="xl72" x:num>5.91</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>3.87</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>160</td>
+    <td class="xl70" x:str>PANAMA C Z</td>
+    <td class="xl71" x:num="13501.290000000001">13,501.29</td>
+    <td class="xl72" x:num>0.0099</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>161</td>
+    <td class="xl70" x:str>PANAMA REPUBLIC</td>
+    <td class="xl71" x:num="172962.14000000001">1,72,962.14</td>
+    <td class="xl72" x:num>0.1268</td>
+    <td class="xl71" x:num="86252.070000000007">86,252.07</td>
+    <td class="xl72" x:num>0.0512</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>162</td>
+    <td class="xl70" x:str>PAPUA N GNA</td>
+    <td class="xl71" x:num="47716.269999999997">47,716.27</td>
+    <td class="xl72" x:num>0.035</td>
+    <td class="xl71" x:num="98538.610000000001">98,538.61</td>
+    <td class="xl72" x:num>0.0585</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>163</td>
+    <td class="xl70" x:str>PARAGUAY</td>
+    <td class="xl71" x:num="2441.9899999999998">2,441.99</td>
+    <td class="xl72" x:num>0.0018</td>
+    <td class="xl71" x:num="2464.3899999999999">2,464.39</td>
+    <td class="xl72" x:num>0.0015</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>164</td>
+    <td class="xl70" x:str>PERU</td>
+    <td class="xl71" x:num="64143.400000000001">64,143.40</td>
+    <td class="xl72" x:num>0.047</td>
+    <td class="xl71" x:num="85276.970000000001">85,276.97</td>
+    <td class="xl72" x:num>0.0507</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>165</td>
+    <td class="xl70" x:str>PHILIPPINES</td>
+    <td class="xl71" x:num="149329.10999999999">1,49,329.11</td>
+    <td class="xl72" x:num>0.1095</td>
+    <td class="xl71" x:num="195046.60000000001">1,95,046.60</td>
+    <td class="xl72" x:num>0.1159</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>166</td>
+    <td class="xl70" x:str>POLAND</td>
+    <td class="xl71" x:num="182784.10000000001">1,82,784.10</td>
+    <td class="xl72" x:num>0.134</td>
+    <td class="xl71" x:num="176455.88">1,76,455.88</td>
+    <td class="xl72" x:num>0.1048</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>167</td>
+    <td class="xl70" x:str>PORTUGAL</td>
+    <td class="xl71" x:num="33587.32">33,587.32</td>
+    <td class="xl72" x:num>0.0246</td>
+    <td class="xl71" x:num="38933.099999999999">38,933.10</td>
+    <td class="xl72" x:num>0.0231</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>168</td>
+    <td class="xl70" x:str>PUERTO RICO</td>
+    <td class="xl71" x:num="6366.6999999999998">6,366.70</td>
+    <td class="xl72" x:num>0.0047</td>
+    <td class="xl71" x:num="13194.700000000001">13,194.70</td>
+    <td class="xl72" x:num>0.0078</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>169</td>
+    <td class="xl70" x:str>QATAR</td>
+    <td class="xl71" x:num="2200996.3399999999">22,00,996.34</td>
+    <td class="xl72" x:num>1.6139</td>
+    <td class="xl71" x:num="3103583.21">31,03,583.21</td>
+    <td class="xl72" x:num>1.8436</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>170</td>
+    <td class="xl70" x:str>REUNION</td>
+    <td class="xl71" x:num="7337.8100000000004">7,337.81</td>
+    <td class="xl72" x:num>0.0054</td>
+    <td class="xl71" x:num="8352.9899999999998">8,352.99</td>
+    <td class="xl72" x:num>0.005</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>171</td>
+    <td class="xl70" x:str>ROMANIA</td>
+    <td class="xl71" x:num="107337.24000000001">1,07,337.24</td>
+    <td class="xl72" x:num>0.0787</td>
+    <td class="xl71" x:num="108139.8">1,08,139.80</td>
+    <td class="xl72" x:num>0.0642</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>172</td>
+    <td class="xl70" x:str>RUSSIA</td>
+    <td class="xl71" x:num="1692388.55">16,92,388.55</td>
+    <td class="xl72" x:num>1.241</td>
+    <td class="xl71" x:num="1641666.0800000001">16,41,666.08</td>
+    <td class="xl72" x:num>0.9752</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>173</td>
+    <td class="xl70" x:str>RWANDA</td>
+    <td class="xl72" x:num>120.19</td>
+    <td class="xl72" x:num>0.0001</td>
+    <td class="xl72" x:num>12.25</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>174</td>
+    <td class="xl70" x:str>SAMOA</td>
+    <td class="xl72" x:num>26.45</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>55.7</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>175</td>
+    <td class="xl70" x:str>SAO TOME</td>
+    <td class="xl72" x:num>23.95</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>51.02</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>176</td>
+    <td class="xl70" x:str>SAUDI ARAB</td>
+    <td class="xl71" x:num="8066428.3600000003">80,66,428.36</td>
+    <td class="xl72" x:num>5.915</td>
+    <td class="xl71" x:num="9285490.5800000001">92,85,490.58</td>
+    <td class="xl72" x:num>5.5157</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>177</td>
+    <td class="xl70" x:str>SENEGAL</td>
+    <td class="xl71" x:num="112593.74000000001">1,12,593.74</td>
+    <td class="xl72" x:num>0.0826</td>
+    <td class="xl71" x:num="94029.699999999997">94,029.70</td>
+    <td class="xl72" x:num>0.0559</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>178</td>
+    <td class="xl70" x:str>SEYCHELLES</td>
+    <td class="xl72" x:num>765</td>
+    <td class="xl72" x:num>0.0006</td>
+    <td class="xl71" x:num="4222.3500000000004">4,222.35</td>
+    <td class="xl72" x:num>0.0025</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>179</td>
+    <td class="xl70" x:str>SIERRA LEONE</td>
+    <td class="xl71" x:num="1966.51">1,966.51</td>
+    <td class="xl72" x:num>0.0014</td>
+    <td class="xl71" x:num="3040.7600000000002">3,040.76</td>
+    <td class="xl72" x:num>0.0018</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>180</td>
+    <td class="xl70" x:str>SINGAPORE</td>
+    <td class="xl71" x:num="3062330.8100000001">30,62,330.81</td>
+    <td class="xl72" x:num>2.2455</td>
+    <td class="xl71" x:num="3254576.75">32,54,576.75</td>
+    <td class="xl72" x:num>1.9333</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>181</td>
+    <td class="xl70" x:str>SLOVAK REP</td>
+    <td class="xl71" x:num="19070.389999999999">19,070.39</td>
+    <td class="xl72" x:num>0.014</td>
+    <td class="xl71" x:num="40001.370000000003">40,001.37</td>
+    <td class="xl72" x:num>0.0238</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>182</td>
+    <td class="xl70" x:str>SLOVENIA</td>
+    <td class="xl71" x:num="55775.260000000002">55,775.26</td>
+    <td class="xl72" x:num>0.0409</td>
+    <td class="xl71" x:num="41995.470000000001">41,995.47</td>
+    <td class="xl72" x:num>0.0249</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>183</td>
+    <td class="xl70" x:str>SOLOMON IS</td>
+    <td class="xl72" x:num>551.4</td>
+    <td class="xl72" x:num>0.0004</td>
+    <td class="xl72" x:num>18.58</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>184</td>
+    <td class="xl70" x:str>SOMALIA</td>
+    <td class="xl71" x:num="1917.3699999999999">1,917.37</td>
+    <td class="xl72" x:num>0.0014</td>
+    <td class="xl71" x:num="4181.5900000000001">4,181.59</td>
+    <td class="xl72" x:num>0.0025</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>185</td>
+    <td class="xl70" x:str>SOUTH AFRICA</td>
+    <td class="xl71" x:num="2690022.6600000001">26,90,022.66</td>
+    <td class="xl72" x:num>1.9725</td>
+    <td class="xl71" x:num="3252514.2200000002">32,52,514.22</td>
+    <td class="xl72" x:num>1.932</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>186</td>
+    <td class="xl70" x:str>SPAIN</td>
+    <td class="xl71" x:num="519599.75">5,19,599.75</td>
+    <td class="xl72" x:num>0.381</td>
+    <td class="xl71" x:num="677619.66000000003">6,77,619.66</td>
+    <td class="xl72" x:num>0.4025</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>187</td>
+    <td class="xl70" x:str>SRI LANKA DSR</td>
+    <td class="xl71" x:num="185001.57000000001">1,85,001.57</td>
+    <td class="xl72" x:num>0.1357</td>
+    <td class="xl71" x:num="227873.44">2,27,873.44</td>
+    <td class="xl72" x:num>0.1354</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>188</td>
+    <td class="xl70" x:str>ST HELENA</td>
+    <td class="xl72" x:num>35.88</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>81.78</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>189</td>
+    <td class="xl70" x:str>ST KITT N A</td>
+    <td class="xl72" x:num>13.57</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>190</td>
+    <td class="xl70" x:str>ST LUCIA</td>
+    <td class="xl72" x:num>241.18</td>
+    <td class="xl72" x:num>0.0002</td>
+    <td class="xl72" x:num>144.79</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>191</td>
+    <td class="xl70" x:str>ST PIERRE</td>
+    <td class="xl72" x:num>0.03</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>5.71</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>192</td>
+    <td class="xl70" x:str>ST VINCENT</td>
+    <td class="xl72" x:num>521.3</td>
+    <td class="xl72" x:num>0.0004</td>
+    <td class="xl72" x:num>2.13</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>193</td>
+    <td class="xl70" x:str>SUDAN</td>
+    <td class="xl71" x:num="224547.19">2,24,547.19</td>
+    <td class="xl72" x:num>0.1647</td>
+    <td class="xl71" x:num="279262.03000000003">2,79,262.03</td>
+    <td class="xl72" x:num>0.1659</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>194</td>
+    <td class="xl70" x:str>SURINAME</td>
+    <td class="xl72" x:num>698.05</td>
+    <td class="xl72" x:num>0.0005</td>
+    <td class="xl72" x:num>400.98</td>
+    <td class="xl72" x:num>0.0002</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>195</td>
+    <td class="xl70" x:str>SWAZILAND</td>
+    <td class="xl71" x:num="15550.709999999999">15,550.71</td>
+    <td class="xl72" x:num>0.0114</td>
+    <td class="xl71" x:num="50418.330000000002">50,418.33</td>
+    <td class="xl72" x:num>0.0299</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>196</td>
+    <td class="xl70" x:str>SWEDEN</td>
+    <td class="xl71" x:num="753098.68999999994">7,53,098.69</td>
+    <td class="xl72" x:num>0.5522</td>
+    <td class="xl71" x:num="736767.33999999997">7,36,767.34</td>
+    <td class="xl72" x:num>0.4376</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>197</td>
+    <td class="xl70" x:str>SWITZERLAND</td>
+    <td class="xl71" x:num="6923201.9199999999">69,23,201.92</td>
+    <td class="xl72" x:num>5.0766</td>
+    <td class="xl71" x:num="11273957.1">1,12,73,957.10</td>
+    <td class="xl72" x:num>6.6969</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>198</td>
+    <td class="xl70" x:str>SYRIA</td>
+    <td class="xl71" x:num="68777.559999999998">68,777.56</td>
+    <td class="xl72" x:num>0.0504</td>
+    <td class="xl71" x:num="16157.030000000001">16,157.03</td>
+    <td class="xl72" x:num>0.0096</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>199</td>
+    <td class="xl70" x:str>TAIWAN</td>
+    <td class="xl71" x:num="1237084.1799999999">12,37,084.18</td>
+    <td class="xl72" x:num>0.9071</td>
+    <td class="xl71" x:num="1803677.6599999999">18,03,677.66</td>
+    <td class="xl72" x:num>1.0714</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>200</td>
+    <td class="xl70" x:str>TAJIKISTAN</td>
+    <td class="xl71" x:num="8067.0200000000004">8,067.02</td>
+    <td class="xl72" x:num>0.0059</td>
+    <td class="xl71" x:num="10504.34">10,504.34</td>
+    <td class="xl72" x:num>0.0062</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>201</td>
+    <td class="xl70" x:str>TANZANIA REP</td>
+    <td class="xl71" x:num="111886.39999999999">1,11,886.40</td>
+    <td class="xl72" x:num>0.082</td>
+    <td class="xl71" x:num="148145.28">1,48,145.28</td>
+    <td class="xl72" x:num>0.088</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>202</td>
+    <td class="xl70" x:str>THAILAND</td>
+    <td class="xl71" x:num="1388850.9399999999">13,88,850.94</td>
+    <td class="xl72" x:num>1.0184</td>
+    <td class="xl71" x:num="1945991.1399999999">19,45,991.14</td>
+    <td class="xl72" x:num>1.1559</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>203</td>
+    <td class="xl70" x:str>TIMOR LESTE</td>
+    <td class="xl72" x:num>7.06</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>778.54</td>
+    <td class="xl72" x:num>0.0005</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>204</td>
+    <td class="xl70" x:str>TOGO</td>
+    <td class="xl71" x:num="32572.16">32,572.16</td>
+    <td class="xl72" x:num>0.0239</td>
+    <td class="xl71" x:num="42071.110000000001">42,071.11</td>
+    <td class="xl72" x:num>0.025</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>205</td>
+    <td class="xl70" x:str>TOKELAU IS</td>
+    <td class="xl72" x:num>6.37</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>6.48</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>206</td>
+    <td class="xl70" x:str>TONGA</td>
+    <td class="xl72" x:num>1.99</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>99.29</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>207</td>
+    <td class="xl70" x:str>TRINIDAD</td>
+    <td class="xl71" x:num="27270.810000000001">27,270.81</td>
+    <td class="xl72" x:num>0.02</td>
+    <td class="xl71" x:num="36727.529999999999">36,727.53</td>
+    <td class="xl72" x:num>0.0218</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>208</td>
+    <td class="xl70" x:str>TUNISIA</td>
+    <td class="xl71" x:num="120466.39999999999">1,20,466.40</td>
+    <td class="xl72" x:num>0.0883</td>
+    <td class="xl71" x:num="137587.09">1,37,587.09</td>
+    <td class="xl72" x:num>0.0817</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>209</td>
+    <td class="xl70" x:str>TURKEY</td>
+    <td class="xl71" x:num="765933.91000000003">7,65,933.91</td>
+    <td class="xl72" x:num>0.5616</td>
+    <td class="xl71" x:num="374245.39000000001">3,74,245.39</td>
+    <td class="xl72" x:num>0.2223</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>210</td>
+    <td class="xl70" x:str>TURKMENISTAN</td>
+    <td class="xl71" x:num="4711.2700000000004">4,711.27</td>
+    <td class="xl72" x:num>0.0035</td>
+    <td class="xl71" x:num="4466.5299999999997">4,466.53</td>
+    <td class="xl72" x:num>0.0027</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>211</td>
+    <td class="xl70" x:str>TURKS C IS</td>
+    <td class="xl72" x:num>875.49</td>
+    <td class="xl72" x:num>0.0006</td>
+    <td class="xl72" x:num>34.8</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>212</td>
+    <td class="xl70" x:str>TUVALU</td>
+    <td class="xl72" x:num>22.38</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>213</td>
+    <td class="xl70" x:str>U ARAB EMTS</td>
+    <td class="xl71" x:num="9179885.0399999991">91,79,885.04</td>
+    <td class="xl72" x:num>6.7314</td>
+    <td class="xl71" x:num="14912337.84">1,49,12,337.84</td>
+    <td class="xl72" x:num>8.8581</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>214</td>
+    <td class="xl70" x:str>U K</td>
+    <td class="xl71" x:num="2112542.7999999998">21,12,542.80</td>
+    <td class="xl72" x:num>1.5491</td>
+    <td class="xl71" x:num="2456169.3999999999">24,56,169.40</td>
+    <td class="xl72" x:num>1.459</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>215</td>
+    <td class="xl70" x:str>U S A</td>
+    <td class="xl71" x:num="8058432.6900000004">80,58,432.69</td>
+    <td class="xl72" x:num>5.9091</td>
+    <td class="xl71" x:num="9135850.3200000003">91,35,850.32</td>
+    <td class="xl72" x:num>5.4268</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>216</td>
+    <td class="xl70" x:str>UGANDA</td>
+    <td class="xl71" x:num="6318.3900000000003">6,318.39</td>
+    <td class="xl72" x:num>0.0046</td>
+    <td class="xl71" x:num="6209.96">6,209.96</td>
+    <td class="xl72" x:num>0.0037</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>217</td>
+    <td class="xl70" x:str>UKRAINE</td>
+    <td class="xl71" x:num="752905.19999999995">7,52,905.20</td>
+    <td class="xl72" x:num>0.5521</td>
+    <td class="xl71" x:num="645932.75">6,45,932.75</td>
+    <td class="xl72" x:num>0.3837</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>218</td>
+    <td class="xl70" x:str>UNION OF SERBIA &amp; MONTENEGRO</td>
+    <td class="xl71" x:num="2740.9099999999999">2,740.91</td>
+    <td class="xl72" x:num>0.002</td>
+    <td class="xl71" x:num="1408.3699999999999">1,408.37</td>
+    <td class="xl72" x:num>0.0008</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>219</td>
+    <td class="xl70" x:str>UNSPECIFIED</td>
+    <td class="xl71" x:num="449172.01000000001">4,49,172.01</td>
+    <td class="xl72" x:num>0.3294</td>
+    <td class="xl71" x:num="1962048.8100000001">19,62,048.81</td>
+    <td class="xl72" x:num>1.1655</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>220</td>
+    <td class="xl70" x:str>URUGUAY</td>
+    <td class="xl71" x:num="7600.5900000000001">7,600.59</td>
+    <td class="xl72" x:num>0.0056</td>
+    <td class="xl71" x:num="7920.6199999999999">7,920.62</td>
+    <td class="xl72" x:num>0.0047</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>221</td>
+    <td class="xl70" x:str>UZBEKISTAN</td>
+    <td class="xl71" x:num="14134.690000000001">14,134.69</td>
+    <td class="xl72" x:num>0.0104</td>
+    <td class="xl71" x:num="9385.6700000000001">9,385.67</td>
+    <td class="xl72" x:num>0.0056</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>222</td>
+    <td class="xl70" x:str>VANUATU REP</td>
+    <td class="xl72" x:num>0.04</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>32.94</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>223</td>
+    <td class="xl70" x:str>VENEZUELA</td>
+    <td class="xl71" x:num="1350691.3100000001">13,50,691.31</td>
+    <td class="xl72" x:num>0.9904</td>
+    <td class="xl71" x:num="2374824.5600000001">23,74,824.56</td>
+    <td class="xl72" x:num>1.4107</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>224</td>
+    <td class="xl70" x:str>VIETNAM SOC REP</td>
+    <td class="xl71" x:num="245911.66">2,45,911.66</td>
+    <td class="xl72" x:num>0.1803</td>
+    <td class="xl71" x:num="484759.06">4,84,759.06</td>
+    <td class="xl72" x:num>0.288</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>225</td>
+    <td class="xl70" x:str>VIRGIN IS US</td>
+    <td class="xl71" x:num="1195.21">1,195.21</td>
+    <td class="xl72" x:num>0.0009</td>
+    <td class="xl72" x:num>155.59</td>
+    <td class="xl72" x:num>0.0001</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>226</td>
+    <td class="xl70" x:str>WALLIS F IS</td>
+    <td class="xl72" x:num>1.14</td>
+    <td class="xl72" x:num>0</td>
+    <td class="xl72" x:num>1.95</td>
+    <td class="xl72" x:num>0</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>227</td>
+    <td class="xl70" x:str>YEMEN REPUBLC</td>
+    <td class="xl71" x:num="742341.75">7,42,341.75</td>
+    <td class="xl72" x:num>0.5443</td>
+    <td class="xl71" x:num="796638.89000000001">7,96,638.89</td>
+    <td class="xl72" x:num>0.4732</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>228</td>
+    <td class="xl70" x:str>ZAMBIA</td>
+    <td class="xl71" x:num="48060.57">48,060.57</td>
+    <td class="xl72" x:num>0.0352</td>
+    <td class="xl71" x:num="14528.870000000001">14,528.87</td>
+    <td class="xl72" x:num>0.0086</td>
+   </tr>
+   <tr height="38" style='height:14.25pt;'>
+    <td class="xl70" height="38" align="right" style='height:14.25pt;' x:num>229</td>
+    <td class="xl70" x:str>ZIMBABWE</td>
+    <td class="xl71" x:num="9905.9200000000001">9,905.92</td>
+    <td class="xl72" x:num>0.0073</td>
+    <td class="xl71" x:num="5289.1300000000001">5,289.13</td>
+    <td class="xl72" x:num>0.0031</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="180" style='width:68;'></td>
+     <td width="850" style='width:319;'></td>
+     <td width="406" style='width:152;'></td>
+     <td width="236" style='width:89;'></td>
+     <td width="406" style='width:152;'></td>
+     <td width="236" style='width:89;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
