@@ -14,7 +14,7 @@ This project involves analyzing trade data for India using Python. The analysis 
   - Trade Balance over Financial Years
 
 
-![Import Export Over Financial Year](Data-Analysis-Import-Export-Of-India/import_export_over_financial_year.png)
+![Import Export Over Financial Year](/Data-Analysis-Import-Export-Of-India/import_export_over_financial_year.png)
 
 
 ## Setup Instructions
@@ -87,12 +87,3 @@ For any questions or issues, please open an issue on the GitHub repository or co
 Happy analyzing!
 ```
 
-### Instructions for Customization:
-
-- **Project Overview**: Adjust the descriptions to fit the specific details of your project.
-- **Setup Instructions**: Modify the instructions based on how you’ve structured your repository and any additional setup steps.
-- **Running the Scripts**: Specify the actual names of the scripts you have.
-- **Example Output**: Optionally, you can include screenshots or examples of the plots if you want to provide a visual representation of the output.
-- **License**: Include or update the license information as per your project’s licensing.
-
-Save this content in a file named `README.md` in your project’s root directory. This will provide a clear and informative introduction to your project for anyone visiting your GitHub repository.
