@@ -13,6 +13,10 @@ This project involves analyzing trade data for India using Python. The analysis 
   - Export and Import over Financial Years
   - Trade Balance over Financial Years
 
+
+![Import Export Over Financial Year](Data-Analysis-Import-Export-Of-India/import_export_over_financial_year.png)
+
+
 ## Setup Instructions
 
 ### Prerequisites
