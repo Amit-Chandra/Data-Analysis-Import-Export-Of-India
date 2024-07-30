@@ -9,12 +9,23 @@ This project involves analyzing trade data for India using Python. The analysis 
 - **Key Visualizations**:
   - Export vs. Import
   - Trade Balance per Country
+  - Total Trade per Country
   - Total Trade over Financial Years
   - Export and Import over Financial Years
   - Trade Balance over Financial Years
 
 
+![Import-Export By Country](https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India/blob/main/import_export_by_country.png)
+
+![Trade Balance Per Country](https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India/blob/main/trade_balance_per_country.png)
+
+![Total Trade Per Country](https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India/blob/main/total_trade_per_country.png)
+
+![Total Trade Over Financial Year](https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India/blob/main/total_trade_over_financial_year.png)
+
 ![Import Export Over Financial Year](https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India/blob/main/import_export_over_financial_year.png)
+
+![Trade Balance Over Financial Year](https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India/blob/main/total_balance_over_financial_year.png)
 
 
 ## Setup Instructions
