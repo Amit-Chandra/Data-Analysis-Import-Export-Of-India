@@ -14,7 +14,7 @@ This project involves analyzing trade data for India using Python. The analysis 
   - Trade Balance over Financial Years
 
 
-![Import Export Over Financial Year](/Data-Analysis-Import-Export-Of-India/import_export_over_financial_year.png)
+![Import Export Over Financial Year](https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India/blob/main/import_export_over_financial_year.png)
 
 
 ## Setup Instructions
@@ -85,5 +85,4 @@ For any questions or issues, please open an issue on the GitHub repository or co
 ---
 
 Happy analyzing!
-```
 
