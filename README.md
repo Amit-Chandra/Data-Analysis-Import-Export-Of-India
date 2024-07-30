@@ -1,5 +1,3 @@
-
-```markdown
 # India Trade Data Analysis
 
 This project involves analyzing trade data for India using Python. The analysis includes visualizations of export and import data, trade balance, and total trade over financial years. Interactive plots are created using Plotly for a better understanding of the data.
